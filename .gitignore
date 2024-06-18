@@ -1,0 +1,2 @@
+# Ignorer le fichier pycache généré lors des tests unitaires
+__pycache__
